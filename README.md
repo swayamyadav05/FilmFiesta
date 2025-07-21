@@ -6,7 +6,7 @@ FilmFiesta is a sleek and modern movie discovery web application built with Reac
 
 ## 🚀 Live Demo
 
-[Check out the live version here!](https://filmfestaaa.netlify.app/)
+[Check out the live version here!](https://filmfiestaaa.vercel.app/)
 
 ## ✨ Features
 
